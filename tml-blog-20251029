@@ -1,0 +1,31 @@
+# 📢 Announcing Tinker Research and Teaching Grants
+
+Thinking Machines Lab has launched **Research and Teaching Grants** to provide subsidized access to **Tinker**, their flexible API for fine-tuning open-weight Large Language Models (LLMs). This initiative is part of their commitment to **open and collaborative science**, aiming to make it easier for students and scholars to utilize Tinker for their academic pursuits.
+
+---
+
+## 👩‍🏫 Teaching Grants
+
+* **Award:** **$250 in free credits per student** for academic classes.
+* **Purpose:** To support classes that integrate Tinker into assignments or enable students to use it for self-directed projects.
+* **Duration:** Sized to support the entire class for the duration of the course.
+* **Example Use:** Diyi Yang's Stanford class on Human-Centered LLMs uses it to compare approaches for training personalized LLMs. Aviral Kumar and Katerina Fragkiadaki's CMU class on Deep RL will use it for class projects experimenting with state-of-the-art methods for training LLM and VLM based policies via Reinforcement Learning (RL).
+
+---
+
+## 🔬 Research Grants
+
+* **Award:** Grants starting at **$5,000** to support projects.
+* **Purpose:** To support research projects and open-source software development that utilize the Tinker API.
+* **Example Use:** Grant Rotskoff's lab at Stanford is fine-tuning small-molecule chemistry models with Tinker for computational chemistry problems.
+
+---
+
+## 📝 Application Details
+
+* **Eligibility:** Applicable for research or teaching that involves training **open-weight LLMs**.
+* **Process:** Applications are assessed on a **rolling basis**.
+* **Response Time:** The company aims to respond within **one week** of application submission.
+* **Application Links:** Separate application links are provided for instructors (Teaching Grants) and researchers (Research Grants).
+
+The Tinker API itself simplifies the fine-tuning process by handling the complexities of distributed training and infrastructure management while giving users control over algorithms and data, often utilizing **LoRA (Low-Rank Adaptation)** for cost-efficiency.
