@@ -1,0 +1,23 @@
+# 🎉 Announcing Tinker: A Flexible API for Fine-Tuning LLMs
+
+Thinking Machines Lab, a startup founded by former OpenAI CTO Mira Murati, has **launched Tinker**, a new **flexible API for fine-tuning open-weight language models (LLMs)**.
+
+The primary goal of Tinker is to democratize cutting-edge model research and customization by **removing the complexity of distributed training and infrastructure management**.
+
+---
+
+## ✨ Key Features
+
+* **🔧 Low-Level Control:** Provides researchers and developers with deep control over the **algorithms and data** used for fine-tuning, enabling extensive experimentation with various post-training methods.
+* **☁️ Managed Infrastructure:** Thinking Machines Lab manages **scheduling, resource allocation, and failure recovery** on their internal clusters, allowing users to initiate runs immediately.
+* **💰 Cost-Efficient Training:** Utilizes **LoRA (Low-Rank Adaptation)** to share the same compute pool across multiple training runs, leading to significant cost savings.
+* **🔄 Model Flexibility:** Supports a broad spectrum of open-weight models, ranging from small LLMs to large mixture-of-experts models like Qwen-235B-A22B.
+* **📚 Tinker Cookbook:** An accompanying **open-source library** featuring modern, pre-built implementations of common post-training methods that run directly on the Tinker API, streamlining the process of achieving high-quality results.
+
+---
+
+## 🎯 Availability
+
+* Tinker is currently in **private beta**.
+* Early adopters include research groups at major institutions like **Princeton, Stanford, Berkeley, and Redwood Research**.
+* It is **free to start**, with a usage-based pricing model anticipated for future commercial availability.
